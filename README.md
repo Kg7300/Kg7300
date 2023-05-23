@@ -1,15 +1,24 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/25RLdGV4YlQ69BalEN/giphy.gif?cid=ecf05e47w2gthq4w7ecke3wv91mj7tnnqg8y0pbki1q0jcm6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media4.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47g5cp38s34u1c09g90g93jqv98fj2lr4nftzghb5j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
-<div id="badges">
-  <a href="youtube.com/Rappidtv">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+<div id="header" align="center">
+  <img src="https://img.shields.io/twitch/status/Rappidtv?style=social" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=kg7300&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hello my visitor, Ive been expecting you 👋
+### Hello my visitor, Ive been expecting you 
+       
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/EcnAlQcGnZq9y/giphy.gif?cid=ecf05e475f9h7j9518sa304gpj9ovzqkmn22i3v6fm3u5i1r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
+
+💬 About Me ...
+- I am a Developing Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Michigan.
+- :telescope: I’m studying as a Computer Science student and contributing to frontend and backend for programming applications.
+- :zap: In my free time, I write random code on my pc, stream video games on my Twitch channel which you cand find the link to up top.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/kamari-greer-672a66277)
 <!--
 **Kg7300/Kg7300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 About Me ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
