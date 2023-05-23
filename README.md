@@ -8,17 +8,29 @@
 </div>
 
 ### Hello my visitor, Ive been expecting you 
-       
+ 
 
 <div align="center">
   <img src="https://media1.giphy.com/media/EcnAlQcGnZq9y/giphy.gif?cid=ecf05e475f9h7j9518sa304gpj9ovzqkmn22i3v6fm3u5i1r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
-💬 About Me ...
+---
+
+### 💬 About Me ...
 - I am a Developing Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Michigan.
 - :telescope: I’m studying as a Computer Science student and contributing to frontend and backend for programming applications.
 - :zap: In my free time, I write random code on my pc, stream video games on my Twitch channel which you cand find the link to up top.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/kamari-greer-672a66277)
+
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 <!--
 **Kg7300/Kg7300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
